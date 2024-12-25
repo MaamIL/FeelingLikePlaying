@@ -3,6 +3,9 @@ This small project is a game selector.<br>
 It is still in its initial stages, with much more to add and improve.<br>
 The project holds a main screen in Streamlit, and runs the games in CMD or TKinter. It also has a sentence_transformer in it.
 
+## Running the Code
+` streamlit run .\Feeling_like_Playing.py ` <br>
+
 ## Feeling Like Playing App
 When you feel like playing, you can choose if you want to select a game from list / describe the game you feel like playing and get a suggestion / answer a small questionnaire that will direct the suggestion of the game you feel like playing / be surprised with a randomly selected game.<br>
 Once a game is selected, you have a option to open the game's description, and start playing.<br>
